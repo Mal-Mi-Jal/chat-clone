@@ -1,0 +1,37 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  padding: 10px 0 10px 0;
+  border-top: 1px solid #efedef;
+  background-color: #efedef;
+  border-radius: 5px;
+}
+
+.footer-bar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-bar-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-bar-plus img {
+  width: 20px;
+  cursor: pointer;
+}
+
+.footer-bar-smile-icon img {
+  width: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.footer-bar-submit img {
+  width: 20px;
+  cursor: pointer;
+}

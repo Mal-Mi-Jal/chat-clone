@@ -1,0 +1,94 @@
+.first-chat {
+  display: flex;
+  justify-content: right;
+  align-items: end;
+  margin-top: 10px;
+}
+
+.first-chat-time {
+  font-size: 10px;
+  color: rgba(175, 175, 175, 0.8);
+  margin-right: 5px;
+}
+
+.first-chat-content {
+  width: 200px;
+  font-size: 14px;
+  color: #efedef;
+  border: 1px solid rgba(175, 175, 175, 0.5);
+  border-radius: 15px;
+  background-color: orange;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+}
+
+.second-chat {
+  display: flex;
+  justify-content: start;
+  align-items: end;
+}
+
+.second-chat-content {
+  width: 130px;
+  font-size: 14px;
+  border: 1px solid rgba(175, 175, 175, 0.5);
+  border-radius: 15px;
+  background-color: #efedef;
+  padding: 10px 10px 10px 10px;
+  margin-top: 15px;
+}
+
+.second-chat-time {
+  font-size: 10px;
+  color: rgba(175, 175, 175, 0.8);
+  margin-left: 5px;
+}
+
+.second-chat-img img {
+  width: 40px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid rgba(175, 175, 175, 0.8);
+  border-radius: 50px;
+}
+
+.promise-chat {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  border: 1px solid rgba(175, 175, 175, 0.5);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding: 10px 0 10px 0;
+}
+
+.promise-chat-img img {
+  width: 15px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+
+.promise-chat-date {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 5px 10px 5px;
+  margin-left: 5px;
+}
+
+.promise-chat-info {
+  font-size: 12px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.alarm-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  margin-top: 20px;
+  color: rgba(175, 175, 175, 0.8);
+}
